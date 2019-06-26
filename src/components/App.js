@@ -8,39 +8,19 @@ class App extends Component {
   state = {
     players: [
       {
-        name: "Guil",
+        name: "Team Poes",
         score: 0,
         id: 1
       },
       {
-        name: "Treasure",
+        name: "Team Chihuahua",
         score: 0,
         id: 2
       },
       {
-        name: "Ashley",
+        name: "Team Pinguïn",
         score: 0,
         id: 3
-      },
-      {
-        name: "James",
-        score: 0,
-        id: 4
-      },
-      {
-        name: "Loes",
-        score: 0,
-        id: 5
-      },
-      {
-        name: "Martin",
-        score: 0,
-        id: 6
-      },
-      {
-        name: "Mira",
-        score: 0,
-        id: 7
       }
     ]
   }

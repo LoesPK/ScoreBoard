@@ -16,11 +16,11 @@ const AddPlayerForm = ({addPlayer}) => {
                 <input
                     type="text"
                     ref={playerInput}
-                    placeholder="Voer spelers naam in"
+                    placeholder="Voer teamnaam in"
                 />
                 <input 
                     type="submit"
-                    value="Voeg speler toe"
+                    value="Voeg team toe"
                 />
             </form>
         );

@@ -13,11 +13,11 @@ const Stats = ({players}) =>{
     <table className="stats">
         <tbody>
             <tr>
-                <td>Players:</td>
+                <td>Teams:</td>
                 <td>{totalPlayers}</td>
             </tr>
             <tr>
-                <td>Total Points:</td>
+                <td>Totale punten:</td>
                 <td>{totalPoints}</td>
             </tr>
         </tbody>
